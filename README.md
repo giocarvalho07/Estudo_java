@@ -1,6 +1,6 @@
 # PortifolioEstudos_Java
 
-![java](https://user-images.githubusercontent.com/52415453/92409599-8c620f80-f117-11ea-8284-0e31d4e45552.jpg)
+![java](https://user-images.githubusercontent.com/52415453/92417471-c099f800-f138-11ea-8dc2-ed6841fcdb47.jpg)
 
 <h1>Projeto de estruturação de estudos em java </h1>
 
@@ -19,6 +19,9 @@
 <li> Desafios gerais </li>
 
 </ul>
+
+![logojava](https://user-images.githubusercontent.com/52415453/92417458-ac55fb00-f138-11ea-888e-46f95e05369c.png)
+
 
 <h4> Minhas redes sociais </h4>
 
